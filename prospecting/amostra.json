@@ -1,0 +1,31 @@
+{
+  "source": "https://pncp.gov.br/api/consulta/v1/contratos",
+  "period": [
+    "20261001",
+    "20261015"
+  ],
+  "pages_requested": [
+    1,
+    30,
+    75,
+    150,
+    250,
+    400,
+    600,
+    850,
+    1100,
+    1400
+  ],
+  "pages_successful": [
+    1,
+    30,
+    75,
+    150,
+    250,
+    400
+  ],
+  "contracts_sampled": 293,
+  "companies_sampled": 230,
+  "leads_selected": 30,
+  "generated_on": "2026-10-16"
+}
